@@ -1,3 +1,5 @@
+# 👋 Hi there!
+
 - 👋 Hi, I’m Jerrod O'Neal 
 - 👀 I’m interested in Devops Engineering
 - 🌱 I’m currently learning Linux (Ubuntu), Network & Security, Dockers, Kubernetes, Terraform, Amazon Web Serves, GitLab CI/CD
